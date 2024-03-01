@@ -1,0 +1,7 @@
+.combo-box .text-field {
+  -fx-padding: 2px 0px 2px 5px; /* Adjust the right padding to be smaller */
+}
+
+.combo-box .arrow-button {
+  -fx-padding: 2px 5px 2px 0px; /* Minimize padding around the arrow */
+}
